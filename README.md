@@ -1,2 +1,2 @@
 # isha-determined-blog-archive
-an archive of my blogging work at Determined AI
+an archive of all the blogs I wrote while at Determined AI
